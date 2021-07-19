@@ -1,6 +1,6 @@
 # 喬叔的 Elasticsearch 基礎實務班 (2021.07.24~25)
 
-[![hackmd-github-sync-badge](https://hackmd.io/kbUPvW3eQLOAq-MdXcZiCQ/badge)](https://hackmd.io/kbUPvW3eQLOAq-MdXcZiCQ)
+[![hackmd-github-sync-badge](https://hackmd.io/YZNLmE4ZRs28v5XX5lplDg/badge)](https://hackmd.io/YZNLmE4ZRs28v5XX5lplDg)
 
 > ## 相關連結
 >
